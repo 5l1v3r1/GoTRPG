@@ -26,3 +26,7 @@ Game of Thrones RolePlay Game
  - If your *Total Gold* + *Gold Won* bigger than your *Starting Gold* you cannot get your gold reward.
  - You can buy *Health* after defeat your enemy using your golds.
  -  Your *Total Health* cannot be exceed your *Starting Health*.
+
+###Special Thanks to:
+- Duygu Sergi
+- Kaan Mersin
