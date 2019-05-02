@@ -1,7 +1,7 @@
 # GoTRPG
 Game of Thrones RolePlay Game
 
-###Character Sheet
+### Character Sheet
 |      Character     |   House   | Starting Health | Starting Gold | Damage | Gold Won per Fight |
 |:------------------:|:---------:|:---------------:|:-------------:|:------:|:------------------:|
 |   Tywin Lannister  | Lannister |             100 |           200 |     25 |                 75 |
@@ -16,7 +16,7 @@ Game of Thrones RolePlay Game
 |    Edmure Tully    |   Tully   |             140 |           140 |     35 |                 65 |
 |    Loras Tyrell    |   Tyrell  |             105 |           175 |     40 |                 55 |
 
-###Rules
+### Rules
 
  
 
@@ -27,6 +27,6 @@ Game of Thrones RolePlay Game
  - You can buy *Health* after defeat your enemy using your golds.
  -  Your *Total Health* cannot be exceed your *Starting Health*.
 
-###Special Thanks to:
+### Special Thanks to:
 - Duygu Sergi
 - Kaan Mersin
